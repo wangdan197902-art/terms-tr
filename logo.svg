@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40">
+  <rect x="0" y="0" width="40" height="40" rx="8" fill="#0066cc"/>
+  <text x="20" y="28" text-anchor="middle" font-size="20" font-weight="bold" fill="white" font-family="sans-serif">AI</text>
+  <text x="50" y="26" font-size="18" font-weight="500" fill="#1a1a2e" font-family="sans-serif">Terms Dict</text>
+</svg>

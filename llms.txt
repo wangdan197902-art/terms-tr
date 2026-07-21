@@ -1,0 +1,45 @@
+# AI Terms Dictionary
+
+> A comprehensive multilingual AI terminology dictionary covering 200+ AI terms in 6 languages (English, Español, Deutsch, 日本語, Français, 中文).
+
+## About
+
+This site provides clear, accurate definitions of artificial intelligence terminology, including machine learning, deep learning, NLP, and related fields. Each term includes:
+- Definition in the user's language
+- Key concepts and relationships
+- Use cases and applications
+- Difficulty level and category
+- Cross-language references
+
+## Supported Languages
+
+- English (en): /en/
+- Español (es): /es/
+- Deutsch (de): /de/
+- 日本語 (ja): /ja/
+- Français (fr): /fr/
+- 中文 (zh): /zh/
+
+## Categories
+
+- basic_concepts: Foundational AI concepts
+- training_techniques: Model training methods
+- application_paradigms: Application patterns
+- engineering_practice: Engineering practices
+- ethics_safety: Ethics and safety
+
+## Search
+
+Search is available at /{lang}/search/ (e.g., /en/search/) using Pagefind static search index.
+
+## Sitemap
+
+- Sitemap: /sitemap.xml
+- Robots: /robots.txt
+
+## Technical
+
+- Built with Hugo Extended
+- Search powered by Pagefind
+- Content generated with AGNES_LLM (agnes-2.0-flash)
+- Static site, no backend required
